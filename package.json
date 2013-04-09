@@ -1,0 +1,12 @@
+{
+    "name": "saber",
+    "description": "JavaScript Mobile Framework, Simple and Reliable.",
+    "version": "0.0.1",
+    "author": "Firede <firede@firede.us>",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/firede/saber"
+    },
+    "keywords": ["mobile", "app"],
+    "dependencies": {}
+}
